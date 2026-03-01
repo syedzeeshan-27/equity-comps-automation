@@ -95,3 +95,9 @@ equity-comps-automation/
   standards or reporting timelines
 - **Usage Terms:** For informational and educational purposes only — not to be
   relied upon for investment decisions
+
+  ## 📸 Sample Output
+
+> The script pulls live data and auto-generates this formatted Excel file in under 10 seconds.
+
+![Sample Output](assets/output_preview.png)
