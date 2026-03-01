@@ -47,7 +47,7 @@ pip install yfinance pandas openpyxl
 
 2\. Run the script:
 
-python sector_comps_tool.py
+ sector_comps_tool.py
 
 3\. Output: SaaS_Comps_Function_Version.xlsx
 
