@@ -100,4 +100,4 @@ equity-comps-automation/
 
 > The script pulls live data and auto-generates this formatted Excel file in under 10 seconds.
 
-![Sample Output](assets/output_preview.png)
+![Sample Output]([assets/output_preview.png](https://github.com/syedzeeshan-27/equity-comps-automation/blob/5899fca143460b6d9b4b613293de3b94717a3014/Screenshot%202026-03-01%20143936.png)
